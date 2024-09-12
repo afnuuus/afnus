@@ -1,0 +1,2 @@
+# afnus
+personal
